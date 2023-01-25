@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/elliedori/practice-github-package.git"
   },
-  "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
-  },
   "author": "elliedori",
   "license": "ISC",
   "bugs": {
