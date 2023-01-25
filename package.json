@@ -1,0 +1,19 @@
+{
+  "name": "@elliedori/practice-github-package",
+  "version": "1.0.0",
+  "description": "a practice Github package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliedori/practice-github-package.git"
+  },
+  "author": "elliedori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliedori/practice-github-package/issues"
+  },
+  "homepage": "https://github.com/elliedori/practice-github-package#readme"
+}
